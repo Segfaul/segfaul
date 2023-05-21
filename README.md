@@ -2,7 +2,7 @@
 ---
 - 👨‍💻 Currently working on [Eye of Github](https://github.com/Segfaul/EyeOfGithub)   
 
-- 📑 Solved 30+ katas on [Codewars]("https://www.codewars.com/users/Featrz")
+- 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
 - 💡 My first algo-bot made 30% per month
 
