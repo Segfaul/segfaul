@@ -1,4 +1,4 @@
-### <div align="center">I'm `Alex`, Python3.0 backend dev 🐍</div>
+### <div align="center">I'm `Alex`, Python3 backend dev 🐍</div>
 ---
 - 👨‍💻 Currently working on [Eye of Github](https://github.com/Segfaul/EyeOfGithub)   
 
