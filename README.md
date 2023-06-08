@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Eye of Github](https://github.com/Segfaul/EyeOfGithub)   
+- 👨‍💻 Currently working on [Algorand](https://github.com/Segfaul/algorand)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
