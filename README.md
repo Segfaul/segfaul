@@ -12,11 +12,12 @@
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<div align="center">    
+<div align="center">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="43" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="43" />    
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="43" />
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/616/603/png-transparent-ajax-jquery-javascript-html-bootstrap-ajax-text-trademark-logo.png" alt="JQuery" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
