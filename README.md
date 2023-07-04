@@ -45,9 +45,8 @@
 <br/>  
 
 ## Github Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Segfaul&theme=noctis_minimus)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaul&layout=donut&disable_animations=true&bg_color=1b2932&text_color=c5cdd3&title_color=d39758)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Segfaul&theme=noctis_minimus)
+![](https://github-readme-stats.vercel.app/api?username=segfaul&show_icons=true&theme=noctis_minimus&disable_animations=true&rank_icon=github&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaul&layout=donut&custom_title=Top%20Languages%20by%20Repo&hide_border=true&disable_animations=true&theme=noctis_minimus)
 <br/>
 ___
 <div align="center">
