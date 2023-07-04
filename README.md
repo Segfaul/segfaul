@@ -46,7 +46,7 @@
 
 ## Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Segfaul&theme=noctis_minimus)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Segfaul&theme=noctis_minimus)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaul&layout=donut&disable_animations=true&bg_color=1b2932&text_color=c5cdd3&title_color=d39758)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Segfaul&theme=noctis_minimus)
 <br/>
 ___
