@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Arbitoid](https://github.com/Segfaul/arbitoid)   
+- 👨‍💻 Currently working on [Data Includer](https://github.com/Segfaul/data_includer)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
