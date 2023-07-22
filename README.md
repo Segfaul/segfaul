@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Ship Insurance](https://github.com/Segfaul/ship_insurance)   
+- 👨‍💻 Currently working on [Ethereum Tracker](https://github.com/Segfaul/eth_tracker)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
