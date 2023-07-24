@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Ethereum Tracker](https://github.com/Segfaul/eth_tracker)   
+- 👨‍💻 Currently working on [Task Flow](https://github.com/Segfaul/task_flow)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
