@@ -17,6 +17,8 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="43" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="43" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="43" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="43" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
