@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Task Flow](https://github.com/Segfaul/task_flow)   
+- 👨‍💻 Currently working on [Taipex](https://github.com/Segfaul/taipex)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
