@@ -1,6 +1,6 @@
 ### <div align="center">I'm `Alex`, Python backend dev 🐍</div>
 ---
-- 👨‍💻 Currently working on [Taipex](https://github.com/Segfaul/taipex)   
+- 👨‍💻 Currently working on [Dotaverse](https://github.com/Segfaul/dotaverse)   
 
 - 📑 Solved 30+ katas on [Codewars](https://www.codewars.com/users/Featrz)
 
@@ -17,6 +17,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="43" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="43" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="43" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="43" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="43" />
 </div></td><td valign="top" width="33%">
@@ -24,14 +25,16 @@
 ### Backend  
 <div align="center">    
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="35" />   
+<img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="35" />
+<img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="35" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" /> 
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="33" /> 
+<img style="margin: 10px" src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" height="50" />
+<img style="margin: 10px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="Docker" height="50" /> 
 
 </div></td><td valign="top" width="33%">
 
@@ -41,7 +44,8 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png" alt="Binance" height="43" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="GPT" height="50" />  
 <img style="margin: 10px" src="https://seeklogo.com/images/C/coinmarketcap-logo-064D167A0E-seeklogo.com.png" alt="CMC" height="50" />  
-<img style="margin: 10px" src="https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png" alt="CoinGecko" height="50" />  
+<img style="margin: 10px" src="https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png" alt="CoinGecko" height="50" />
+<img style="margin: 10px" src="https://logo-marque.com/wp-content/uploads/2021/02/Google-Analytics-Logo.png" alt="Google Analytics" height="50" />  
 </div></td></tr></table>  
 
 <br/>  
