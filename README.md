@@ -10,7 +10,7 @@
 
 ## <div id="segfaul-stack">Hard Skills</div>
 
-> Languages
+> General
 
 <table width='100%'>
   <tr>
@@ -38,7 +38,21 @@
       </a>
       <br>C++
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/poetry/poetry-original.svg" width="36" height="36" alt="poetry" />
+      </a>
+      <br>poetry
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+  </tr>
 </table>
 
 > Backend
@@ -69,8 +83,6 @@
       </a>
       <br>Celery
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#segfaul-stack">
         <img src="https://www.svgrepo.com/show/329878/aiohttp.svg" width="36" height="36" alt="aiohttp" />
@@ -87,9 +99,33 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/poetry/poetry-original.svg" width="36" height="36" alt="poetry" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" />
       </a>
-      <br>poetry
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="mongodb" />
+      </a>
+      <br>Mongo
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" width="36" height="36" alt="redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="rabbitmq" />
+      </a>
+      <br>RabbitMQ
     </td>
   </tr>
 </table>
@@ -155,78 +191,6 @@
       <br>Tailwind
     </td>
   </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-  </tr>
-</table>
-
-> SQL/NoSQL
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="sqlite" />
-      </a>
-      <br>SQLite
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" width="36" height="36" alt="redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="mongodb" />
-      </a>
-      <br>Mongo
-    </td>
-  </tr>
-</table>
-
-> Message brokers
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="rabbitmq" />
-      </a>
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" width="36" height="36" alt="redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#segfaul-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="kafka" />
-      </a>
-      <br>Kafka
-    </td>
-  </tr>
 </table>
 
 > Linting/Testing
@@ -268,7 +232,7 @@
   </tr>
 </table>
 
-> Version Control
+> Infrastructure
 
 <table width='100%'>
   <tr>
@@ -290,13 +254,6 @@
       </a>
       <br>GitHub
     </td>
-  </tr>
-</table>
-
-> Infrastructure
-
-<table width='100%'>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#segfaul-stack">
         <img src="https://www.svgrepo.com/show/353846/gunicorn.svg" width="36" height="36" alt="gunicorn" />
@@ -316,11 +273,6 @@
       <br>Nginx
     </td>
   </tr>
-</table>
-
-> Operating system
-
-<table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
       <a href="#segfaul-stack">
