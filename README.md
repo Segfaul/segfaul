@@ -8,52 +8,350 @@
 
 <br/>
 
-## Hard Skills
-<table><tr><td valign="top" width="33%">
+## <div id="segfaul-stack">Hard Skills</div>
 
-### Frontend  
-<div align="center">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="43" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="43" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="43" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="43" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" height="43" />
-</div></td><td valign="top" width="33%">
+> Languages
 
-### Backend  
-<div align="center">    
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="35" />
-<img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="35" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="MySQL" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" /> 
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" height="50" />
-<img style="margin: 10px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="Docker" height="50" /> 
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="36" height="36" alt="python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-plain.svg" width="36" height="36" alt="cplusplus" />
+      </a>
+      <br>C++
+    </td>
+  </tr> 
+</table>
 
-</div></td><td valign="top" width="33%">
+> Backend
 
-### APIs  
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="43" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png" alt="Binance" height="43" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="GPT" height="50" />  
-<img style="margin: 10px" src="https://seeklogo.com/images/C/coinmarketcap-logo-064D167A0E-seeklogo.com.png" alt="CMC" height="50" />  
-<img style="margin: 10px" src="https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png" alt="CoinGecko" height="50" />
-<img style="margin: 10px" src="https://logo-marque.com/wp-content/uploads/2021/02/Google-Analytics-Logo.png" alt="Google Analytics" height="50" />  
-</div></td></tr></table>  
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="fastapi" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" width="36" height="36" alt="django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original-wordmark.svg" width="36" height="36" alt="djangorestframework" />
+      </a>
+      <br>DRF
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="36" height="36" alt="celery" />
+      </a>
+      <br>Celery
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://www.svgrepo.com/show/329878/aiohttp.svg" width="36" height="36" alt="aiohttp" />
+      </a>
+      <br>AioHTTP
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/matomo-org/matomo-icons/01c334c8c2f6c4c9a6b011d89caa6fc3d444dedc/src/socials/web.telegram.org.svg" width="36" height="36" alt="aiogram" />
+      </a>
+      <br>Aiogram
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/poetry/poetry-original.svg" width="36" height="36" alt="poetry" />
+      </a>
+      <br>poetry
+    </td>
+  </tr>
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="36" height="36" alt="react" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="vuejs" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original.svg" width="36" height="36" alt="jquery" />
+      </a>
+      <br>JQuery
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="36" height="36" alt="html5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="36" height="36" alt="bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webpack/webpack-original.svg" width="36" height="36" alt="webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+  </tr>
+</table>
+
+> SQL/NoSQL
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="sqlite" />
+      </a>
+      <br>SQLite
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" width="36" height="36" alt="redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="mongodb" />
+      </a>
+      <br>Mongo
+    </td>
+  </tr>
+</table>
+
+> Message brokers
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="rabbitmq" />
+      </a>
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" width="36" height="36" alt="redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="kafka" />
+      </a>
+      <br>Kafka
+    </td>
+  </tr>
+</table>
+
+> Linting/Testing
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="36" height="36" alt="pylint" />
+      </a>
+      <br>PyLint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="36" height="36" alt="flake8" />
+      </a>
+      <br>Flake8
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>eslint
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg" width="36" height="36" alt="pytest" />
+      </a>
+      <br>PyTest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" width="36" height="36" alt="jest" />
+      </a>
+      <br>Jest
+    </td>
+  </tr>
+</table>
+
+> Version Control
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="gitlab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+> Infrastructure
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://www.svgrepo.com/show/353846/gunicorn.svg" width="36" height="36" alt="gunicorn" />
+      </a>
+      <br>Gunicorn
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nginx/nginx-original.svg" width="36" height="36" alt="nginx" />
+      </a>
+      <br>Nginx
+    </td>
+  </tr>
+</table>
+
+> Operating system
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="archlinux" />
+      </a>
+      <br>Arch
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#segfaul-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg" width="36" height="36" alt="windows" />
+      </a>
+      <br>Windows
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
-## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=segfaul&show_icons=true&theme=noctis_minimus&disable_animations=true&rank_icon=github&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaul&layout=donut&custom_title=Top%20Languages%20by%20Repo&hide_border=true&disable_animations=true&theme=noctis_minimus)
+## Github Stats
+<div align=left>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=segfaul&show_icons=true&theme=noctis_minimus&disable_animations=true&rank_icon=github&hide_border=true"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=segfaul&layout=donut&custom_title=Top%20Languages%20by%20Repo&hide_border=true&disable_animations=true&theme=noctis_minimus"/>
+</div>
 <br/>
+
 ___
 <div align="center">
 <a href="https://github.com/segfaul" target="_blank">
